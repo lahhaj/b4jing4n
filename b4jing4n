@@ -434,7 +434,8 @@ echo "[===============================================]>"
 echo $green "51.> Nuyul Bitcoin"
 echo "[===============================================]>"
 echo "\033[32;1m"
-read -p "root@T00Ls-Mr.B4J1N64N#" bro
+read -p "root@T00Ls-B4J1N64Nv6~#" bro
+
 
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
@@ -442,6 +443,7 @@ clear
 figlet "Mr.LUKMAN TAMPAN" | lolcat
 php tp.php
 fi
+
 
 if
 [ $bro = 2 ] || [ $bro = 2 ]
@@ -451,11 +453,13 @@ toilet "Mr.LUKMAN TAMPAN"
 php t.php
 fi
 
+
 if [ $bro = 3 ] || [ $bro = 3 ]
 then
 figlet "Mr.LUKMAN TAMPAN"
 php mataharimall.php
 fi
+
 
 if [ $bro = 4 ] || [ $bro = 4 ]
 then
@@ -464,12 +468,14 @@ toilet "Mr.LUKMAN TAMPAN"
 php hooq.php
 fi
 
+
 if [ $bro = 5 ] || [ $bro = 5 ]
 then
 clear
 toilet -f slant --gay "Mr.LUKMAN TAMPAN"
 php kfc.php
 fi
+
 
 if [ $bro = 6 ] || [ $bro = 6 ]
 then
@@ -478,12 +484,14 @@ toilet -f mono12 -F gay "Mr.LUKMAN TAMPAN"
 php phd.php
 fi
 
+
 if [ $bro = 7 ] || [ $bro = 7 ]
 then
 clear
 toilet "Mr.LUKMAN TAMPAN"
 php whiskas.php
 fi
+
 
 if [ $bro = 8 ] || [ $bro = 8 ]
 then
@@ -492,12 +500,14 @@ figlet "Mr.LUKMAN TAMPAN"
 php zipay.php
 fi
 
+
 if [ $bro = 9 ] || [ $bro = 9 ]
 then
 clear
 toilet  "Mr.LUKMAN TAMPAN"
 php key.php
 fi
+
 
 if [ $bro = 10 ] || [ $bro = 10 ]
 then
@@ -506,12 +516,14 @@ toilet "Mr.LUKMAN TAMPAN"
 python2 SpamMail.py
 fi
 
+
 if [ $bro = 11 ] || [ $bro = 11 ]
 then
 clear
 toilet "Mr.LUKMAN TAMPAN"
 python2 whs.py
 fi
+
 
 if [ $bro = 12 ] || [ $bro = 12 ]
 then
@@ -524,6 +536,7 @@ clear
 toilet "Mr.LUKMAN TAMPAN"
 python2 create.py
 fi
+
 
 if [ $bro = 14 ] || [ $bro = 14 ]
 then
@@ -539,12 +552,14 @@ toilet "Mr.LUKMAN TAMPAN"
 python2 gam.py
 fi
 
+
 if [ $bro = 16 ] || [ $bro = 16 ]
 then
 clear
 toilet "Mr.LUKMAN TAMPAN"
 python2 anvima.py
 fi
+
 
 if [ $bro = 17 ] || [ $bro = 17 ]
 then
@@ -553,12 +568,14 @@ toilet "Mr.LUKMAN TAMPAN"
 python2 htmd.py
 fi
 
+
 if [ $bro = 18 ] || [ $bro = 18 ]
 then
 clear
 toilet "Mr.LUKMAN TAMPAN"
 php autolike.php
 fi
+
 
 if [ $bro = 19 ] || [ $bro = 19 ]
 then
@@ -567,12 +584,14 @@ toilet "Mr.LUKMAN TAMPAN"
 python2 auto_reaction.py
 fi
 
+
 if [ $bro = 20 ] || [ bro = 20 ]
 then
 clear
 figlet "Mr.LUKMAN TAMPAN"" | lolcat
 python2 botkomen.py
 fi
+
 
 if [ $bro = 21 ] || [ $bro = 21 ]
 then
@@ -598,6 +617,7 @@ cd module
 php sqlscan.php
 fi
 
+
 if [ $bro = 23 ] || [ $bro = 23 ]
 then
 clear
@@ -610,6 +630,7 @@ mv Hash-Buster $HOME
 cd $HOME/Hash-Buster
 python2 hash.py
 fi
+
 
 if [ $bro = 24 ] || [ $bro = 24 ]
 then
@@ -627,6 +648,7 @@ chmod +x rhawk.php
 php rhawk.php
 fi
 
+
 if [ $bro = 25 ] || [ $bro = 25 ]
 then
 clear
@@ -640,6 +662,7 @@ cd $HOME/torshammer
 read -p "Masukan Target==>:" target
 python2 torshammer.py -T -t target
 fi
+
 
 if [ $bro = 26 ] || [ $bro = 26 ]
 then
@@ -656,6 +679,7 @@ read -p "MasukanTarget:" target
 python2 LITEDDOS.py target 80 100
 fi
 
+
 if [ $bro = 27  || [ $bro = 27 ]
 then
 clear
@@ -668,6 +692,7 @@ cd $HOME/Hunner
 chmod +x hunner.py
 python2 hunner.py
 fi
+
 
 if [ $bro = 28 ] || [ $bro = 28 ]
 then
@@ -682,6 +707,7 @@ read -p "masukan web target:" target
 python2 sqlmap.py -D target
 fi
 
+
 if [ $bro = 29 ] || [ $bro = 29 ]
 then
 clear
@@ -694,6 +720,7 @@ cd $HOME/4wsectools
 chmod 777 tools
 ./tools
 fi
+
 
 if [ $bro = 30 ] || [ $bro = 30 ]
 then
@@ -719,6 +746,7 @@ echo ""
 ping 8.8.8.8 
 fi
 
+
 if [ $bro = 32 ] || [ $bro = 32 ]
 then
 clear
@@ -733,6 +761,7 @@ echo ""
 ping -D www.google.com
 fi
 
+
 if [ $bro = 33 ] || [ $bro = 33 ]
 then
 clear
@@ -745,6 +774,7 @@ cd $HOME/BinGoo
 bash bingoo
 fi
 
+
 if [ $bro = 34 ] || [ $bro = 34 ]
 then
 clear
@@ -753,6 +783,7 @@ sleep 1
 cd module
 python2 facebook.py
 fi
+
 
 if [ $bro = 35 ] || [ $bro = 35 ]
 then
@@ -769,6 +800,7 @@ cd $HOME/Termux-A
 php run.php
 fi
 
+
 if [ $bro = 36 ] || [ $bro = 36 ]
 then
 clear
@@ -783,6 +815,7 @@ mv GadoGado $HOME
 cd $HOME/GadoGado
 bash gado
 fi
+
 
 if [ $bro = 37 ] || [ $bro = 37 ]
 then
@@ -800,6 +833,7 @@ chmod 777 install.sh
 lazysqlmap
 fi
 
+
 if [ $bro = 38 ] || [ $bro = 38 ]
 then
 clear
@@ -814,6 +848,7 @@ cd v1.2
 php diejoubu.php
 fi
 
+
 if [ $bro = 39 ] || [ $bro = 39 ]
 then
 clear
@@ -826,6 +861,7 @@ mv weeman $HOME
 cd $HOME/weeman
 python2 weeman.py
 fi
+
 
 if [ $bro = 40 ] || [ $bro = 40 ]
 then
@@ -840,6 +876,8 @@ mv iesDEFACE $HOME
 cd $HOME/iesDEFACE
 bash iesDeface.sh
 fi
+
+
 if [ $bro = 41 ] || [ $bro = 41 ]
 then
 clear
@@ -852,6 +890,7 @@ chmod 777 errorcyber
 ./errorcyber
 fi
 
+
 if [ $bro = 42 ] || [ $bro = 42 ]
 then
 clear
@@ -863,6 +902,7 @@ cd $HOME/A-Rat
 python2 A-Rat.py
 fi
 
+
 if [ $bro = 43 ] || [ $bro = 43 ]
 then
 clear
@@ -873,6 +913,7 @@ mv Scan-Website-Admin-Login $HOME
 cd $HOME/Scan-Website-Admin-Login
 python2 Admin-Login.py
 fi
+
 
 if [ $bro = 44 ] || [ $bro = 44 ]
 then
@@ -900,6 +941,7 @@ echo "\033[33;1m"
 echo "Selesai! Tod Cek di $target $script "
 fi
 
+
 if [ $bro = 45 ] || [ $bro = 45 ]
 then
 clear
@@ -911,6 +953,7 @@ cd module
 python2 katoolin.py
 fi
 
+
 if [ $bro = 46 ] || [ $bro = 46 ]
 then
 clear
@@ -920,6 +963,7 @@ sleep 1
 cd module
 python2 r.py
 fi
+
 
 if [ $bro = 47 ] || [ $bro = 47 ]
 then
@@ -977,6 +1021,7 @@ echo "Silahkan Cek Web $Ke10/$script"
 echo "[=============LUKMAN NURUL HAKIM=============]"
 fi
 
+
 if [ $bro = 48 ] || [ $bro = 48 ]
 then
 clear
@@ -986,6 +1031,7 @@ sleep 1
 pkg install w3m
 w3m www.google.com
 fi
+
 
 if [ $bro = 49 ] || [ $bro = 49 ]
 then
@@ -1003,6 +1049,7 @@ pkg install mpv
 mpsyt
 fi
 
+
 if [ $bro = 50 ] || [ $bro = 50 ]
 then
 clear
@@ -1012,6 +1059,7 @@ sleep 1
 cd module
 python2 cinta.py
 fi
+
 
 if [ $bro = 51 ] || [ $bro = 51 ]
 then
